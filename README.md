@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathish kumar S</h1>
-<h3 align="center">Angular | Javascript | Java | Spring Boot | Docker</h3>
+<h3 align="center">Angular | Javascript | Java | Spring Boot | Docker | Linux</h3>
 
 - 📫 How to reach me **sathishsekar.ss4@gmail.com**
 
