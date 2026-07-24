@@ -7,7 +7,6 @@
 
 <b>Projects I work:</b>
 1. Personal ledger -  Application to track the expenses ( in progress ).
-2. Life tracker - This is a fun application that helps us take correct decision in life ( in progress ).
 
 <i>The real problem is not with 'how do we code this', it's with understanding the problem.</i>
 
